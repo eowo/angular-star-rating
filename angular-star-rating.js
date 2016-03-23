@@ -24,7 +24,7 @@
 
         element.css({
           'color': 'rgb(253, 174, 25)',
-          'cursor': scope.readOnly ? 'default' : 'pointer',
+          'cursor': isReadOnly ? 'default' : 'pointer',
           '-webkit-user-select': 'none'
         });
 
