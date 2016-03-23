@@ -1,0 +1,27 @@
+{
+  "name": "angular-star-rating",
+  "authors": [
+    "eowo"
+  ],
+  "description": "Angular JS star rating",
+  "main": "angular-star-rating.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "star",
+    "rating",
+    "directive"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/eowo/angular-star-rating",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0"
+  }
+}
